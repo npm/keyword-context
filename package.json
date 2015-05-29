@@ -1,0 +1,22 @@
+{
+  "name": "keyword-context",
+  "version": "1.0.0",
+  "description": "gives context around a given keyword in a larger bit of text",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "keyword",
+    "context",
+    "highlight"
+  ],
+  "author": "Raquel Vélez <raquel@rckbt.me>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  }
+}
